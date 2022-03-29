@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_detail" type="id" />
+    <item name="b_exit" type="id" />
+    <item name="name" type="id" />
+    <item name="age" type="id" />
+</resources>
